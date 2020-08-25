@@ -1,5 +1,5 @@
-#### HTML example of [Ascii Maker](https://github.com/alecominotti/asciimaker/ "Ascii Maker repository") (Coming soon)
+#### HTML example of [Ascii Maker](https://github.com/alecominotti/asciimaker/ "Ascii Maker repository") (Not public yet)
 
 </br>
 
-[Click Here to watch the example](https://alecominotti.github.io/ "Ascii Maker example")
+[Click Here to rick roll](https://alecominotti.github.io/ "Ascii Maker example")
